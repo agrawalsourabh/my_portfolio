@@ -1,9 +1,0 @@
-.App {
-  text-align: center;
-}
-.container{
-  flex-basis: 100%;
-  flex-direction: column;
-  display: flex;
-  justify-content: center;
-}
